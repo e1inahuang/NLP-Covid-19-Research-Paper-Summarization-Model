@@ -14,6 +14,8 @@ Problems we encountered:
 - At-a-Glance Summaries
 - Visual Word Clouds
 - Accelerating Research
+#### Reference Work Results
+
 
 
 ## Pre-processing：
@@ -23,6 +25,7 @@ Problems we encountered:
 - Step3: Filtering out English only articles
 #### Deduplication
 Use Minhash to identify valid similar titles and delete the similar ones
+![Photo](P1)
 
 
 ## Implementation
