@@ -2,8 +2,28 @@
 
 ## Project Description
 
+#### Executive
+Problems we encountered:
+- Large quantity of papers
+- Diverse research areas
+- Overloaded Information
+- Need for faster speed research
+#### Solution
+- Tailored Yearly Insights
+- Dynamic Topic Clustering
+- At-a-Glance Summaries
+- Visual Word Clouds
+- Accelerating Research
 
-## Data Pre-processing：
+
+## Pre-processing：
+#### Data pre-processing
+- Step1: Delete NA values
+- Step2: Filtering out 2019-2022
+- Step3: Filtering out English only articles
+#### Deduplication
+Use Minhash to identify valid similar titles and delete the similar ones
+
 
 ## Implementation
 
