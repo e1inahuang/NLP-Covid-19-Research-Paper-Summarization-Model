@@ -42,9 +42,8 @@ Use Minhash to identify valid similar titles and delete the similar ones
 - Use Mini-Batch KMeans
   - Elbow method
   - t-SNE visualization
-  ![Photo](P3)
-  
-
+  ![Photo](P3.png)
+- Generate topic clusters
 
 
 
