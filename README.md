@@ -32,6 +32,19 @@ Use Minhash to identify valid similar titles and delete the similar ones
 
 
 ## Implementation
+#### Sentence transformer
+- All-mpnet-base-v2 model maps sentences and paragraphs to a 768 dimensional dense vector space and can be used for tasks like clustering or semantic search.
+#### Clustering methods
+- Attempts
+  - KMeans
+  - SOM
+  - LDA
+- Use Mini-Batch KMeans
+  - Elbow method
+  - t-SNE visualization
+  ![Photo](P3)
+  
+
 
 
 
