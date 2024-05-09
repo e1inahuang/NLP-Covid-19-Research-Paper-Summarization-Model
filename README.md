@@ -53,7 +53,10 @@ Use Minhash to identify valid similar titles and delete the similar ones
 After generated the topic clusters, we selected the top representative articles for each topic cluster by applying PCA and KMeans clustering inside the topic and calculated each article's distance to the corresponding centroid. Then we generated the topic summary with these representative articles using BART model. 
 - Example Summaries
  ![Photo](P5.png)
-
+#### Evaluation
+Use BERTScore to evaluate the summary using ChatGPT generated summary for the representative articles as reference.
+- BERTScore for three randomly selected topics under 2021 data
+  
 
 ## References
 
