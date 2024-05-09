@@ -59,4 +59,4 @@ Use BERTScore to evaluate the summary using ChatGPT generated summary for the re
 ![Photo](P6.png)
 
 ## References
-
+[1] Herlihy, Christine, and Yuelin Liu. "Automated Task-Informed Document Retrieval on the COVID-19 Open Research Dataset Using Topic Modeling." University of Maryland, College Park, 2020.
