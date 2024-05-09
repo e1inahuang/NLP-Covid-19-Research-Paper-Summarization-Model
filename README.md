@@ -56,7 +56,7 @@ After generated the topic clusters, we selected the top representative articles 
 #### Evaluation
 Use BERTScore to evaluate the summary using ChatGPT generated summary for the representative articles as reference.
 - BERTScore for three randomly selected topics under 2021 data
-  
+![Photo](P6.png)
 
 ## References
 
