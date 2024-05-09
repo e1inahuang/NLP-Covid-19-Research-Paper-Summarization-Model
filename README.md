@@ -44,6 +44,7 @@ Use Minhash to identify valid similar titles and delete the similar ones
   - t-SNE visualization
   ![Photo](P3.png)
 - Generate topic clusters
+  ![Photo](P4.png)
 
 
 
